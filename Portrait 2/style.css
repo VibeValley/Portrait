@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(29, 29, 29);
+    background-image: url(Background_image.svg);
+    color:white;
+    font-family: 'Open Sans', serif;
+}
+
+.left_links{
+    margin-left: 20vw;
+    margin-top: 15vw;
+}
+
+.home_links{
+    list-style-type: none;
+}
+
+.links{
+    margin: 3vw;
+    font-size: 50px;
+    cursor: pointer;
+}
